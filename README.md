@@ -47,3 +47,7 @@ Open app.R in RStudio.
 Ensure Python environment is configured correctly with reticulate.
 
 Click "Run App".
+
+<img width="1439" alt="Screenshot 2025-04-29 at 8 26 05 PM" src="https://github.com/user-attachments/assets/e8dd9fbe-c65e-404b-9697-56a80fb93fc0" />
+
+
